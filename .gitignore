@@ -1,0 +1,10 @@
+Unity/CGJ2016/Library/
+Unity/CGJ2016/LibraryIOS/
+Unity/CGJ2016/LibraryAndroid/
+Unity/CGJ2016/Temp/
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+Unity/CGJ2016/Builds/
